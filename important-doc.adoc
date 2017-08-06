@@ -4,7 +4,7 @@ This is an important document.
 
 Original text that you should change:
 
-* `Clearly wrong original text.`
+* `Clearly wrong original text that now creates a merge conflict. Change it at your own peril.`
 
 This is the rest of the original document.
 
