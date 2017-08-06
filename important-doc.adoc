@@ -8,4 +8,4 @@ Original text that you should change:
 
 This is the rest of the original document.
 
-Branch: stage-1-master.
+Branch: stage-1-topic-branch.
