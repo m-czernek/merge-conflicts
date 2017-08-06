@@ -1,0 +1,11 @@
+= Important Header
+
+This is an important document.
+
+Original text that you should change:
+
+* `Clearly wrong original text.`
+
+This is the rest of the original document.
+
+Branch: stage-1-master.
