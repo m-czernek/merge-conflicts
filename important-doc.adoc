@@ -4,7 +4,7 @@ This is an important document.
 
 Original text that you should change:
 
-* `Clearly wrong original text.`
+* `Corrected text.'
 
 This is the rest of the original document.
 
