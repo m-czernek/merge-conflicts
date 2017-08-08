@@ -25,7 +25,7 @@ $ git checkout stage-1-topic-branch
 ```
 
 3. Change the clearly wrong text on your topic branch, commit, and push the changes.
-4. (_Optional_) You can create a pull request (github's merge request) to see that there indeed are merge conflicts.
+4. (_Optional_) You can create a pull request, that is github's merge request, against your master branch (`stage-1-master`) to see that there indeed are merge conflicts.
 5. Rebase your branch against the master branch so that your branch contains all the changes from the master branch:
 
 ```
