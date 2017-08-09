@@ -29,7 +29,7 @@ $ git checkout stage-1-topic-branch
 5. Rebase your branch against the master branch so that your branch contains all the changes from the master branch:
 
 ```
-$ git rebase stage-1-master
+$ git rebase origin/stage-1-master
 ```
 
 6. Open the `important-doc.adoc` file and notice the `<<<<<<` and `>>>>>>` delimiters, with `=====` in the middle. These inform you of the old version and the new version (old is above, new is below the equal signs).
