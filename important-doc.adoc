@@ -4,7 +4,7 @@ This is an important document.
 
 Original text that you should change:
 
-* `Clearly wrong original text that now creates a merge conflict. Change it at your own peril.`
+* `ABCDEFGHIJKLMNOPQRSTUVWXYZ. 1 3 5 7 9 11 13 17.`
 
 This is the rest of the original document.
 
